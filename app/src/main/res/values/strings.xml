@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jet NYTimes News</string>
+    <string name="home">Home</string>
+    <string name="world">World</string>
+    <string name="science">Science</string>
+    <string name="arts">Arts</string>
+    <string name="headlines">Headlines</string>
+    <string name="saved_for_later">Saved For Later</string>
+</resources>

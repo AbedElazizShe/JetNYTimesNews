@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="scrollable_tab_row_edge_start_padding">32dp</dimen>
+</resources>
