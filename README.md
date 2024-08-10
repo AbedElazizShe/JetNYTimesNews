@@ -5,7 +5,7 @@ test the capabilities of Compose.
 
 ## Demo
 
-![Demo](demo/demo.webm)
+![Demo](demo/demo.gif)
 
 ## Usage
 
