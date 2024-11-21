@@ -1,7 +1,6 @@
 package com.example.jetnytimesnews.compose.home
 
 import androidx.annotation.StringRes
-import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.pager.HorizontalPager
@@ -64,7 +63,6 @@ fun HomeScreen(
 
 }
 
-@OptIn(ExperimentalFoundationApi::class)
 @Composable
 private fun HomeScreen(
     modifier: Modifier = Modifier,
